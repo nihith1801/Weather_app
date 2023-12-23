@@ -1,9 +1,16 @@
-# A myapp Flet app
+# Flet Weather Application
 
-An example of a minimal Flet app.
+This is a weather application built with Flet. It displays various weather parameters such as UV index, air quality, and wind speed. The application also includes a feature to display random graphs.
 
-To run the app:
+## Features
 
-```
-flet run [app_directory]
-```
+- Displays current weather parameters including UV index, air quality, and wind speed.
+- Generates random graphs.
+- Interactive UI with toggle functionality to switch between different data sets.
+
+## Installation
+
+To run this application, you need to have Flet installed. You can install it using pip:
+
+```bash
+pip install flet
