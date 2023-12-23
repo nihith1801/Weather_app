@@ -55,7 +55,7 @@ genai.configure(api_key=os.environ['GOOGLE_API_KEY'])
 model = genai.GenerativeModel('gemini-pro')
 
 #Open weather api key
-weather_api_key ="95a00349c5073a6d26b966d3d00e45d5"
+weather_api_key ="Open_Weather_API_Key"
 
 # Get location data
 location_response = requests.get('http://ip-api.com/json/')
