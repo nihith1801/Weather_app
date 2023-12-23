@@ -5,7 +5,6 @@ This is a weather application built with Flet. It displays various weather param
 ## Features
 
 - Displays current weather parameters including UV index, air quality, and wind speed.
-- Generates random graphs.
 - Interactive UI with toggle functionality to switch between different data sets.
 
 ## Installation
